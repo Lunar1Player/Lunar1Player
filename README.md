@@ -28,8 +28,8 @@ lunar = {
     "nome":       "Lunar",
     "github":     "Lunar1Player",
     "estudando":  ["C", "Python", "HTML", "CSS"],
-    "status":     "Aprendendo e evoluindo 🚀",
-    "hobbie":     "Blue Lock enjoyer ⚽"
+    "status":     "Um passo de cada vez.",
+    "hobbie":     "Jogar, ler e se divertir."
 }
 ```
 
