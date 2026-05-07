@@ -15,7 +15,7 @@
 <!-- GIF do Kaiser - Blue Lock -->
 <img src="https://media.tenor.com/7mNPa0rW9IQAAAC/michael-kaiser-blue-lock.gif" width="200"/>
 
-> *"O ego não é o inimigo — é o combustível."*
+> *"Sempre tentando ser melhor."*
 
 </div>
 
